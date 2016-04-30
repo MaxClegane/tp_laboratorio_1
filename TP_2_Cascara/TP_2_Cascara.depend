@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1461976477 source:c:\users\maltu\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1461537515 c:\users\maltu\desktop\tp_2_cascara\funciones.h
+
+1461975763 source:c:\users\maltu\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
