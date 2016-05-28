@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1463253210 source:c:\users\maltu\desktop\tp_3_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1464400479 source:c:\users\maltu\desktop\tp_3_cascara\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"lib.h"
+
+1464352734 c:\users\maltu\desktop\tp_3_cascara\funciones.h
+
+1463243236 c:\users\maltu\desktop\tp_3_cascara\utn.h
+
+1464359134 source:c:\users\maltu\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"lib.h"
+
+1463266637 source:c:\users\maltu\desktop\tp_3_cascara - copia\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1463284695 c:\users\maltu\desktop\tp_3_cascara - copia\funciones.h
+
+1463284501 source:c:\users\maltu\desktop\tp_3_cascara - copia\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1463316227 source:c:\users\maltu\desktop\ok15 tp_3_cascara - copia\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1463284695 c:\users\maltu\desktop\ok15 tp_3_cascara - copia\funciones.h
+
+1463316185 source:c:\users\maltu\desktop\ok15 tp_3_cascara - copia\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1464315270 source:c:\users\maltu\desktop\ok15 tp_3_cascara - final\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1464314121 c:\users\maltu\desktop\ok15 tp_3_cascara - final\funciones.h
+
+1464315123 source:c:\users\maltu\desktop\ok15 tp_3_cascara - final\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1464359132 source:c:\users\malturria\documents\ok15 tp_3_cascara - final\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"lib.h"
+
+1464352733 c:\users\malturria\documents\ok15 tp_3_cascara - final\funciones.h
+
+1464362965 source:c:\users\malturria\documents\ok15 tp_3_cascara - final\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"lib.h"
+
+1464362964 source:c:\users\malturria\documents\ok15 tp_3_cascara - final\lib.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1464362962 c:\users\malturria\documents\ok15 tp_3_cascara - final\lib.h
+
+1464362966 source:c:\users\maltu\desktop\ok15 tp_3_cascara - final27\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"lib.h"
+
+1464352734 c:\users\maltu\desktop\ok15 tp_3_cascara - final27\funciones.h
+
+1464362964 c:\users\maltu\desktop\ok15 tp_3_cascara - final27\lib.h
+
+1464362966 source:c:\users\maltu\desktop\ok15 tp_3_cascara - final27\lib.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1464359134 source:c:\users\maltu\desktop\ok15 tp_3_cascara - final27\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"lib.h"
+
+1464362964 c:\users\maltu\desktop\tp_3_cascara\lib.h
+
+1464362966 source:c:\users\maltu\desktop\tp_3_cascara\lib.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
