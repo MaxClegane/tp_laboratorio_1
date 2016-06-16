@@ -1,0 +1,311 @@
+# depslib dependency file v1.0
+1465501791 source:c:\users\malturria\documents\codeblocks-ep\tp4\tp4\arraylistimplementation\implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../arraylist/examples/example_4/inc/ArrayList.h"
+	"implemetation.h"
+
+1464696237 c:\users\malturria\documents\codeblocks-ep\tp4\tp4\arraylist\examples\example_4\inc\arraylist.h
+
+1465501587 c:\users\malturria\documents\codeblocks-ep\tp4\tp4\arraylistimplementation\implementation\implemetation.h
+
+1465561611 source:c:\users\malturria\documents\codeblocks-ep\tp4\tp4\arraylistimplementation\implementation\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465561188 c:\users\malturria\documents\codeblocks-ep\tp4\tp4\arraylistimplementation\implementation\estructuras.h
+
+1465561797 source:c:\users\malturria\documents\codeblocks-ep\tp4\tp4\arraylistimplementation\implementation\implementation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465503201 source:c:\users\malturria\documents\codeblocks-ep\tp4\tp4\arraylistimplementation\implementation\puntos.c
+
+1465561347 source:c:\users\malturria\documents\codeblocks-ep\tp4\tp4\arraylistimplementation\implementation\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465561558 c:\users\malturria\documents\codeblocks-ep\tp4\tp4\arraylistimplementation\implementation\arraylist.h
+
+1465595306 source:c:\users\alumno.lab5pc03\desktop\tp4\tp4\arraylistimplementation\implementation\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465595043 c:\users\alumno.lab5pc03\desktop\tp4\tp4\arraylistimplementation\implementation\arraylist.h
+
+1465598180 source:c:\users\alumno.lab5pc03\desktop\tp4\tp4\arraylistimplementation\implementation\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465599013 c:\users\alumno.lab5pc03\desktop\tp4\tp4\arraylistimplementation\implementation\estructuras.h
+
+1465501588 c:\users\alumno.lab5pc03\desktop\tp4\tp4\arraylistimplementation\implementation\implemetation.h
+
+1465598962 source:c:\users\alumno.lab5pc03\desktop\tp4\tp4\arraylistimplementation\implementation\puntos.c
+
+1465602119 source:c:\users\alumno.lab5pc03\desktop\tp4\tp4\arraylistimplementation\implementation\implementation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465602134 source:c:\users\alumno.lab5pc03\desktop\tp4\tp4\arraylistimplementation\implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465598182 source:c:\users\maltu\desktop\tp4_2\tp4\arraylistimplementation\implementation\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465599014 c:\users\maltu\desktop\tp4_2\tp4\arraylistimplementation\implementation\estructuras.h
+
+1465595044 c:\users\maltu\desktop\tp4_2\tp4\arraylistimplementation\implementation\arraylist.h
+
+1465501588 c:\users\maltu\desktop\tp4_2\tp4\arraylistimplementation\implementation\implemetation.h
+
+1465773548 source:c:\users\maltu\desktop\tp4_2\tp4\arraylistimplementation\implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465777451 source:c:\users\maltu\desktop\tp4_2\tp4\arraylistimplementation\implementation\puntos.c
+
+1465771628 source:c:\users\maltu\desktop\tp4_2\tp4\arraylistimplementation\implementation\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465776308 source:c:\users\maltu\desktop\tp4_2\tp4\arraylistimplementation\implementation\implementation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465863301 source:c:\users\alumno.lab4pc\desktop\tp4_3\tp4\arraylistimplementation\implementation\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465863301 c:\users\alumno.lab4pc\desktop\tp4_3\tp4\arraylistimplementation\implementation\estructuras.h
+
+1465595044 c:\users\alumno.lab4pc\desktop\tp4_3\tp4\arraylistimplementation\implementation\arraylist.h
+
+1465501588 c:\users\alumno.lab4pc\desktop\tp4_3\tp4\arraylistimplementation\implementation\implemetation.h
+
+1465783698 source:c:\users\alumno.lab4pc\desktop\tp4_3\tp4\arraylistimplementation\implementation\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465863374 source:c:\users\alumno.lab4pc\desktop\tp4_3\tp4\arraylistimplementation\implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465855480 source:c:\users\alumno.lab4pc\desktop\tp4_3\tp4\arraylistimplementation\implementation\puntos.c
+
+1465863325 source:c:\users\alumno.lab4pc\desktop\tp4_3\tp4\arraylistimplementation\implementation\implementation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465926324 source:c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4\arraylistimplementation\implementation\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465927656 c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4\arraylistimplementation\implementation\estructuras.h
+
+1465595044 c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4\arraylistimplementation\implementation\arraylist.h
+
+1465913210 c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4\arraylistimplementation\implementation\implemetation.h
+
+1465921576 source:c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4\arraylistimplementation\implementation\puntos.c
+
+1465926668 source:c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4\arraylistimplementation\implementation\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465927111 source:c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4\arraylistimplementation\implementation\implementation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465927111 source:c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4\arraylistimplementation\implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465926670 source:c:\users\maltu\desktop\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465595044 c:\users\maltu\desktop\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\arraylist.h
+
+1465926326 source:c:\users\maltu\desktop\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465927658 c:\users\maltu\desktop\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\estructuras.h
+
+1465913212 c:\users\maltu\desktop\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\implemetation.h
+
+1465921578 source:c:\users\maltu\desktop\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\puntos.c
+
+1465956298 source:c:\users\maltu\desktop\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\implementation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465956396 source:c:\users\maltu\desktop\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465926326 source:c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465927658 c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\estructuras.h
+
+1465595044 c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\arraylist.h
+
+1466014364 c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\implemetation.h
+
+1466015168 source:c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1465997969 source:c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\puntos.c
+
+1465926670 source:c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1466016019 source:c:\users\malturria\documents\codeblocks-ep\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\implementation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1466034545 source:c:\users\maltu\desktop\outlook.com\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1466034550 c:\users\maltu\desktop\outlook.com\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\arraylist.h
+
+1466034539 source:c:\users\maltu\desktop\outlook.com\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1466034563 c:\users\maltu\desktop\outlook.com\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\estructuras.h
+
+1466034558 c:\users\maltu\desktop\outlook.com\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\implemetation.h
+
+1466038338 source:c:\users\maltu\desktop\outlook.com\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\implementation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1466037770 source:c:\users\maltu\desktop\outlook.com\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Estructuras.h"
+	"ArrayList.h"
+	"implemetation.h"
+
+1466030288 source:c:\users\maltu\desktop\outlook.com\tp4_4\tp4_4\tp4\arraylistimplementation\implementation\puntos.c
+
